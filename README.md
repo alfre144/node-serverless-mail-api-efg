@@ -1,1 +1,1 @@
-# node-serverless-mail-api-efg
+# node-serverless-mail-api-egf

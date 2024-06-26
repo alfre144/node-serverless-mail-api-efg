@@ -1,0 +1,24 @@
+{
+    "name": "serverless-email-api-egf",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@now/node": "^1.7.1",
+        "body-parser": "^1.18.3",
+        "dotenv": "^16.4.5",
+        "micro": "^9.3.4",
+        "micro-cors": "^0.1.1",
+        "nodemailer": "^4.7.0"
+    },
+    "scripts": {
+        "start": "node ."
+    },
+    "devDependencies": {
+        "@vercel/node": "^3.1.7"
+    },
+    "engines": {
+        "npm": ">=8.0.0 <10.0.0",
+        "node": ">=18.0.0 <19.0.0"
+    }
+}
